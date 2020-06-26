@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+name: aba
+# 对象 （键值对的集合）
+person:
+  name: zhangsan
+  address: beijin
+# 数组
+address:
+  - hunan
+  - changsha
+  - chongqing
+
+# 单个的，不可分割的值
+msg1: 'hello \n nihao'
+msg2: "hello \n nihao"
